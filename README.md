@@ -1,2 +1,2 @@
 # hello-world
-My name is Mikey Taylor. I go to Stanford.
+My name’s Mikey, and I’m a rising senior at Stanford studying Computer Science with a concentration in Artificial Intelligence. I grew up in Boston, and I’ve lived and worked in various places, most recently Paris. I love to travel, backpack, scuba dive, and sail. I’m so excited to be joining HappyRobot as a Product Operations Engineering Intern! I can’t think of a more exciting startup to be working at right now.
